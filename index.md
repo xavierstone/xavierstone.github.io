@@ -10,12 +10,12 @@ In my early personal experiments with programming, I was a **maverick**, and not
 I definitely learned to communicate to a **variety** of audiences in this program, from children to students to peers to stakeholders. In my class on Hardware Components we were asked to design a shopping list of components for a small photo start up, and I meticulously identified the best fit for *each* internal desktop component, which was *far* beyond the requirements for the project. In addition, I took care to explain the reasoning behind each choice in terms the non-technical CEO would understand. This general approach was utilized in most of my other classes too. As previously mentioned though, the **core appeal** of computer science for me is in the data structures and algorithms. This appeal grew even stronger throughout this program. For example, I have created a *breadth* of modular functions for my OpenGL class to reduce the repetition inherent in graphics programming.
 
 ## Capstone
-Certainly, though, the strongest testament to my skills is the capstone project, **Backyard**. This is a campsite locator app I built from *scratch*, initially for a Computer Platform Technologies class. That class, unlike so many of my classes, threw me ***overboard*** from day one and challenged me to figure out how to swim. The result was well-received, but underwhelming by my own standards: far too reminiscent of my old coding practices. However, this also made it the perfect candidate for an ePortfolio: not only do I get to showcase the *whole gamut* of skills by building an app, I get to *massively* improve a previous piece of work. Due to the wide range of technologies and abilities required to put this project together, it serves as a **singular** demonstration of my capabilities. In addition to the above mentioned skills, which are all represented in this project as well:
- - **version control** leaving room for eventual collaboration,
- - **communication** with stakeholders,
- - and **data structures/algorithms**...
- - **software engineering/database skills** as well as
- - **security** feature in this project.
+Certainly, though, the strongest testament to my skills is the capstone project, **Backyard**. This is a campsite locator app I built from *scratch*, initially for a Computer Platform Technologies class. That class, unlike so many of my classes, threw me ***overboard*** from day one and challenged me to figure out how to swim. The result was well-received, but underwhelming by my own standards: far too reminiscent of my old coding practices. However, this also made it the perfect candidate for an ePortfolio: not only do I get to showcase the *whole gamut* of skills by building an app, I get to *massively* improve a previous piece of work. Due to the wide range of technologies and abilities required to put this project together, it serves as a **singular** demonstration of my capabilities. The following skills feature especially in this project:
+ - **version control** leaving room for eventual collaboration
+ - **communication** with stakeholders
+ - **data structures/algorithms**
+ - **software engineering/database skills**
+ - and **security**
  
 The locally stored SQLite database used in the original app has been upgraded to a remote MongoDB instance which the app can communicate with via a special server that I built off of a simple Spring tutorial (Spring, 2020). Essentially, though, I configured a **fully-functioning stack** myself. Security was limited to password hashing for the scope of this project, but will be extended down the line. In conclusion, this program has been *very valuable* to me and helped to shape me into a well-rounded candidate for a software development position.
 
