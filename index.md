@@ -16,6 +16,7 @@ Certainly, though, the strongest testament to my skills is the capstone project,
  - and **data structures/algorithms**...
  - **software engineering/database skills** as well as
  - **security** feature in this project.
+ 
 The locally stored SQLite database used in the original app has been upgraded to a remote MongoDB instance which the app can communicate with via a special server that I built off of a simple Spring tutorial (Spring, 2020). Essentially, though, I configured a **fully-functioning stack** myself. Security was limited to password hashing for the scope of this project, but will be extended down the line. In conclusion, this program has been *very valuable* to me and helped to shape me into a well-rounded candidate for a software development position.
 
 # Introducing: Backyard
