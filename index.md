@@ -13,9 +13,11 @@ I definitely learned to communicate to a **variety** of audiences in this progra
 Certainly, though, the strongest testament to my skills is the capstone project, **Backyard**. This is a campsite locator app I built from *scratch*, initially for a Computer Platform Technologies class. That class, unlike so many of my classes, threw me ***overboard*** from day one and challenged me to figure out how to swim. The result was well-received, but underwhelming by my own standards: far too reminiscent of my old coding practices. However, this also made it the perfect candidate for an ePortfolio: not only do I get to showcase the *whole gamut* of skills by building an app, I get to *massively* improve a previous piece of work. Due to the wide range of technologies and abilities required to put this project together, it serves as a **singular** demonstration of my capabilities. The following skills feature especially in this project:
  - **version control** leaving room for eventual collaboration
  - **communication** with stakeholders
- - **data structures/algorithms**
- - **software engineering/database skills**
- - and **security**
+ - **data structures**
+ - **algorithms**
+ - **software engineering**
+ - **database skills**
+ - **security**
  
 The locally stored SQLite database used in the original app has been upgraded to a remote MongoDB instance which the app can communicate with via a special server that I built off of a simple Spring tutorial (Spring, 2020). Essentially, though, I configured a **fully-functioning stack** myself. Security was limited to password hashing for the scope of this project, but will be extended down the line. In conclusion, this program has been *very valuable* to me and helped to shape me into a well-rounded candidate for a software development position.
 
@@ -37,8 +39,8 @@ This project showcases the **well-rounded** set of skills required to develop an
  - **Organization** is shown through the use of clear comments, simple structures and algorithms, and version control.
  - **Testing** is clear in the Git history through the recorded resolution of emergent bugs.
  - **Continuous process improvement** is showcased through the increasing organization and elegance of the documentation and design throughout the course of the project.
- - My **cultural values** come through as well, as the app will be free and open-source, developed on Github, with **privacy** in mind and the option to browse anonymously. Even the concept of the app itself empowers individual users to contribute and share good sites with each other.
- - My **personality** also comes through in the app's eccentricity and a lack of willingness to blindly subscribe to existing conventions.
+ - **Ethical values** come through as well, as the app will be free and open-source, developed on Github, with privacy in mind and the option to browse anonymously. Even the concept of the app itself empowers individual users to contribute and share good sites with each other.
+ - **Personality** also shines through in the app's eccentricity and a lack of willingness to blindly subscribe to existing conventions.
     
 ## The Crown Jewel
 The *biggest* enhancement for the Backyard campsite locator app is a database ***makeover***. The initial app used a hard-coded local SQLite database that was neither persistent nor remotely accessible. The makeover ***transformed*** the app's back end structure into a remote MongoDB server. For testing purposes I ran the MongoDB instance, as well as a small Java RESTful server interface, from my laptop, which the Android emulator was able to connect to by means of an IP mask (10.0.2.2, representing the host computer's localhost). The **flexibility** of non-structured query language plus the **convenience** of a remote database is a *huge* improvement over the previous back end, but there are further enhancements needed in this category to make the app ready for deployment. The server would need to be hosted at a web address, or on the cloud, either of which would require some overhead. However, this app is currently just an example of my skills, so these real-world considerations are superfluous for the time being.
